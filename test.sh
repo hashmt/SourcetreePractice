@@ -1,3 +1,3 @@
 #!/bin/sh
 
-git switch shuppan
+git switch chu/shuppan
