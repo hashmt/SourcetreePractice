@@ -1,5 +1,4 @@
 #!/bin/sh
 
-git checkout {chu/shuppan}
-git add {C:\Users\chunichi\Documents\SourcetreePractice\test_html_cgi\test_config\backnumber.dat}
-git commit -m "{ƒeƒXƒg‚Å’Ç‰Á}"
+git switch chu/shuppan
+git add C:\Users\chunichi\Documents\SourcetreePractice\test_html_cgi\test_config\backnumber.dat
