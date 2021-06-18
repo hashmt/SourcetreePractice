@@ -6,7 +6,7 @@ git add {C:\Users\chunichi\Documents\SourcetreePractice\test_html_cgi\test_confi
 git commit -m "{ƒeƒXƒg‚Å’Ç‰Á}"
 =======
 git checkout chu/shuppan
-git add C:/Users\chunichi/Documents/SourcetreePractice/test/dragons/backnumber.dat
+git add C:/Users/chunichi/Documents/SourcetreePractice/test/dragons/backnumber.dat
 
 ct="$(date +'%Y:%m:%d-%H:%M:%S')"
 
