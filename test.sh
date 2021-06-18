@@ -1,7 +1,7 @@
 #!/bin/sh
 
 git checkout chu/shuppan
-git add C:/Users\chunichi/Documents/SourcetreePractice/test/dragons/backnumber.dat
+git add C:/Users/chunichi/Documents/SourcetreePractice/test/dragons/backnumber.dat
 
 ct="$(date +'%Y:%m:%d-%H:%M:%S')"
 
